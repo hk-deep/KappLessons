@@ -8,3 +8,4 @@ ListPage¤Three Dimensions of Risk@-1/&0/MPT only recognizes market risk and see
 ImagePage¤Dress accordingly@-1/&0/With that in mind, your portfolio of assets (including cash) should reflect these 3 dimensions of risk by incorporating 3 portfolios each of which addresses a different risk appetite: @0@-1/&0/@GRAPH@@@
 ListPage¤Wrap up@-1/&0/In summary, investors have different investing preferences based on their needs, fears, and aspirations:@-1/&0/@2&Allocations to the personal risk bucket will limit loss of wealth, but will yield below-market returns./Allocations to the market risk bucket will provide risk-adjusted market returns (this is the MPT framework)./Allocations to the aspirational risk bucket should yield higher-than-market returns, but with the risk of substantial loss of capital.@@@
 ImagePage¤Wrap up@-1/&0/@GRAPH@@@
+EndPage¤Amazing!@-1/&0/You're all done for this lesson! Keep going! Your path awaits you@1@Back to the menu@@@

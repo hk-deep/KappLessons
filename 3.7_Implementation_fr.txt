@@ -4,3 +4,4 @@ ListPage¤Implementation@-1/&0/First : Gather complete diagnostic information:@-
 ListPage¤Implementation@-1/&0/Second : Perform risk allocation and asset allocation, portfolio construction:@-1/&0/@2&Categorize and evaluate current state./Make intuitive adjustments.@@@
 ListPage¤Implementation@-1/&0/Third : Compute probability of achieving goals using:@-1/&0/@2&Scenario analysis./Monte Carlo simulations.@@@
 ListPage¤Implementation@-1/&0/Finally : Readjust:@-1/&0/@2&Risk allocation./Goals & cash flows./Asset allocation within each risk bucket.@-1/&0/In the following sections we will help you go through these steps and apply the principles discussed above.@@@
+EndPage¤Amazing!@-1/&0/You're all done for this lesson! Keep going! Your path awaits you@1@Back to the menu@@@
