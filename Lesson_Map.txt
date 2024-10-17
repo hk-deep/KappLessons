@@ -204,8 +204,8 @@
 "images/ai_computer_plants.jpeg",
 "images/stacking_coins.jpeg"
     ],
-    "1":["images/The Name of the Game"],
-    "2":["images/How inflation works.png", "images/How inflation works_2.png","images/The Magical Power of Compounding.png"],
+    "1":["images/The Name of the Game.png"],
+    "2":["images/How inflation works .png", "images/How inflation works_2.png","images/The Magical Power of Compounding.png"],
     "3":["images/Comparing the Classes.png"],
     "4":["images/Investment Plan.png"],
     "5":["images/Return Components.png"],
