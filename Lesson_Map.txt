@@ -193,8 +193,8 @@
 "185_Building a Three-Fund ETF Portfolio"	
 ], 
 
-"imageList" : [
-    [
+"imageList" : {
+    "0": [
       "images/ai_finance.jpeg",
 	"images/ai_more_finance.jpeg",
 "images/profitability.png",
@@ -203,33 +203,30 @@
 "images/ai_city.jpeg",
 "images/ai_computer_plants.jpeg",
 "images/stacking_coins.jpeg"
-
     ],
-    [
-      "placeholder.png","placeholder.png",
-      "placeholder.png"
-    ],
-    [
-      "placeholder.png","placeholder.png",
-      "placeholder.png"
-    ],
-    [
-      "placeholder.png","placeholder.png",
-      "placeholder.png"
-    ],
-    [
-      "placeholder.png","placeholder.png",
-      "placeholder.png"
-    ]
-  ],
-"imageList2" : [
-    [
-      "placeholder.png",
-      "placeholder.png"
-    ],
-    [
-      "placeholder.png",
-      "placeholder.png"
-    ]  ],
+    "1":["images/The Name of the Game"],
+    "2":["images/How inflation works.png", "images/How inflation works_2.png","images/The Magical Power of Compounding.png"],
+    "3":["images/Comparing the Classes.png"],
+    "4":["images/Investment Plan.png"],
+    "5":["images/Return Components.png"],
+    "6":["images/Variance.png","images/Risk vs Return_formula1.png","images/Risk vs Return_formula2.png"],
+    "7":["images/Comparing risks.png","images/Modern Portfolio Theory.png"],
+    "13":["images/The Journey Matters.png"],
+    "14":["images/Wealth Distribution.png","images/Dress accordingly.png","images/Wrap up.png"],
+    "15":["images/Benchmarks.png"],
+    "16":["images/Asset Classifications for Each Risk Bucket.png"],
+    "17":["images/Dynamic Characteristics of Optimal Risk Allocation.png","images/Sample Risk Allocation for a Conservative Investor.png","images/Sample Risk Allocation for Affluent Investors.png","images/Sample Risk Allocation for Wealthy Investors.png"],
+    "40":["images/ETFs vs Mutual Funds.png","images/Types of Exchange Traded Funds (ETFs).png"],
+    "41":["images/Pros and Cons (REITs).png"],
+    "46":["images/Pros and Cons (Diversification Strategies).png"]
+  },
+"imageList2" : {
+    "12": ["images/Example(distribution of returns).png"],
+    "13": ["images/Geopolitical risk.png"],
+    "39": ["images/Comparison(primary vs secondary market).png"],
+    "42": ["images/An Order Book Example.png"],
+    "79": ["images/Diversify Across REIT Categories.png"],
+    "85": ["images/Sample Three-Fund ETF Allocations"]
+      },
 "Quizzes":["Quiz_S1", "Quiz_S2"]
 }
