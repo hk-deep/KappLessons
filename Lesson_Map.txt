@@ -229,5 +229,5 @@
     "79": ["images/Diversify Across REIT Categories.png","thumbsUp.png"],
     "85": ["images/Sample Three-Fund ETF Allocations","thumbsUp.png"]
       },
-"Quizzes":["Quiz_S1", "Quiz_S2"]
+"Quizzes":["Quiz_S1", "Quiz_S2", "Quiz_S3", "Quiz_S4", "Quiz_S5", "Quiz_S6", "Quiz_S7", "Quiz_S8"]
 }
