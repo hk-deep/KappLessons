@@ -1,15 +1,15 @@
-ImagePage¤Welcome!@-1/&0/Welcome to KAPP’s Personal Investment Course!@Welcome@@@@
-ImagePage¤Welcome!@-1/&0/In this course, you’ll learn the fundamentals of investing and wealth management.@0@-1/&0/@Journey@0@-1/&0/Our goal is to empower you with the knowledge and confidence to make sound financial decisions.@@@
-ImagePage¤Welcome!@-1/&0/Whether you’re a young adult just starting out on your financial journey or a seasoned investor looking to fine-tune your existing knowledge, this app is designed to provide you with the essential tools and insights needed to take control of your financial future. @Tools2@@@@
-ImagePage¤Welcome!@-1/&0/Personal investment is more than just managing your money; it’s about setting goals, making informed decisions, and building a secure foundation for you and your family.@Path@@@@
-ImagePage¤Welcome!@-1/&0/We’ll explore practical strategies to help you build an emergency fund, plan for retirement, and make informed investment choices. @Build@@@@
-ImagePage¤Welcome!@-1/&0/By the end of this course, you’ll have a comprehensive understanding of personal finance principles and a personalized plan to achieve your financial goals.@Components@@@@
-ImagePage¤Welcome!@-1/&0/You’ll also gain a deeper understanding of how investment works, how to build and manage your portfolio, and ways to improve your expertise and avoid booby traps.@Personal@@@@
-ImagePage¤Welcome!@-1/&0/We will show you how to built an investment portfolio with the optimum allocation of risk, i.e., budgeting of your resources through out various risk dimensions, to meet the your safety and aspirational goals while still benefiting from efficient markets.@Portfolio@@@@
-ImagePage¤Welcome@-1/&0/This starts with incorporating all of your assets and liabilities including home, mortgage, and human capital, as opposed to just financial assets. @0@-1/&0/@Risk@0@-1/&0/To do that we will introduce you to the concepts of personal risk and aspirational risk to supplement the market risk framework traditionally used. @@@
-ImagePage¤Welcome@-1/&0/This is what your wealth allocation should look like @0@-1/&0/@Wealth@0@-1/&0/Kapp will help you understand and fill each compartment@@@
-ImagePage¤Welcome!@-1/&0/You’ll be able to achieve an appropriate allocation of wealth in just 3 simple steps.@Steps@@@@
-ImagePage¤Welcome!@-1/&0/To help you do that, we will go through :@Learn@@@@
-ImagePage¤Welcome!@-1/&0/Then we’ll organise this knolwedge into actionable steps :@Process@@@@
-ImagePage¤Welcome!@-1/&0/We don’t want to spoil it, but keep in mind that along this course we will be pushing some simple ideas that will help you swim through the sea of complex financial concepts, and these are :@Principles@@@@
-EndPage¤Welcome!@-1/&0/Get ready to take charge of your finances and pave the way for a secure and prosperous future!@7@Have a great time building your personnal finances!@@@
+ImagePage¤Welcome!@-1/&0/Welcome to KAPP’s Personal Investment Course!@0@@@@
+ImagePage¤Welcome!@-1/&0/In this course, you’ll learn the fundamentals of investing and wealth management.@1@-1/&0/Our goal is to empower you with the knowledge and confidence to make sound financial decisions.@@@
+ImagePage¤Welcome!@-1/&0/Whether you’re a young adult just starting out on your financial journey or a seasoned investor looking to fine-tune your existing knowledge, this app is designed to provide you with the essential tools and insights needed to take control of your financial future. @2@@@@
+ImagePage¤Welcome!@-1/&0/Personal investment is more than just managing your money; it’s about setting goals, making informed decisions, and building a secure foundation for you and your family.@3@@@@
+ImagePage¤Welcome!@-1/&0/We’ll explore practical strategies to help you build an emergency fund, plan for retirement, and make informed investment choices. @4@@@@
+ImagePage¤Welcome!@-1/&0/By the end of this course, you’ll have a comprehensive understanding of personal finance principles and a personalized plan to achieve your financial goals.@5@@@@
+ImagePage¤Welcome!@-1/&0/You’ll also gain a deeper understanding of how investment works, how to build and manage your portfolio, and ways to improve your expertise and avoid booby traps.@6@@@@
+ImagePage¤Welcome!@-1/&0/We will show you how to built an investment portfolio with the optimum allocation of risk, i.e., budgeting of your resources through out various risk dimensions, to meet the your safety and aspirational goals while still benefiting from efficient markets.@7@@@@
+ImagePage¤Welcome@-1/&0/This starts with incorporating all of your assets and liabilities including home, mortgage, and human capital, as opposed to just financial assets. @8@-1/&0/To do that we will introduce you to the concepts of personal risk and aspirational risk to supplement the market risk framework traditionally used. @@@
+ImagePage¤Welcome@-1/&0/This is what your wealth allocation should look like @9@-1/&0/Kapp will help you understand and fill each compartment@@@
+ImagePage¤Welcome!@-1/&0/You’ll be able to achieve an appropriate allocation of wealth in just 3 simple steps.@10@@@@
+ImagePage¤Welcome!@-1/&0/To help you do that, we will go through :@11@@@@
+ImagePage¤Welcome!@-1/&0/Then we’ll organise this knolwedge into actionable steps :@12@@@@
+ImagePage¤Welcome!@-1/&0/We don’t want to spoil it, but keep in mind that along this course we will be pushing some simple ideas that will help you swim through the sea of complex financial concepts, and these are :@13@@@@
+EndPage¤Welcome!@-1/&0/Get ready to take charge of your finances and pave the way for a secure and prosperous future!@14@Have a great time building your personnal finances!@@@

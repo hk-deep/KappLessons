@@ -195,15 +195,21 @@
 
 "imageList" : {
     "0": [
-      "images/ai_finance.jpeg",
-	"images/ai_more_finance.jpeg",
-"images/profitability.png",
-"images/tools.webp",
-"images/growing_finance.jpg",
-"images/ai_city.jpeg",
-"images/ai_computer_plants.jpeg",
-"images/stacking_coins.jpeg",
-"thumbsUp.png"
+      "images/Welcome.png",
+	"images/Journey.png",
+"images/Tools.png",
+"images/Path.png",
+"images/Build.png",
+"images/Components.png",
+"images/Personal.png",
+"images/Portfolio.png",
+"images/Risk.png",
+"images/Wealth.png",
+"images/Steps.png",
+"images/Learn.png",
+"images/Process.png",
+"images/Principles.png",
+"images/Growth.png"
     ],
     "1":["images/The Name of the Game.png","thumbsUp.png"],
     "2":["images/How inflation works .png", "images/How inflation works_2.png","images/The Magical Power of Compounding.png","thumbsUp.png"],
