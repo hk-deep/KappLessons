@@ -11,5 +11,5 @@ ImagePage¤Welcome@-1/&0/This is what your wealth allocation should look like @0
 ImagePage¤Welcome!@-1/&0/You’ll be able to achieve an appropriate allocation of wealth in just 3 simple steps.@Steps@@@@
 ImagePage¤Welcome!@-1/&0/To help you do that, we will go through :@Learn@@@@
 ImagePage¤Welcome!@-1/&0/Then we’ll organise this knolwedge into actionable steps :@Process@@@@
-ListPage¤Welcome@-1/&0/We don’t want to spoil it, but keep in mind that along this course we will be pushing some simple ideas that will help you swim through the sea of complex financial concepts, and these are :@1&Start now/Everyone can do it, no matter how small or young/Learn, even if you think you already know/Continuous investment is more efficient than lump sums/Think long term/Diversify, diversify, diversify@-1/&0/@@@
+ImagePage¤Welcome!@-1/&0/We don’t want to spoil it, but keep in mind that along this course we will be pushing some simple ideas that will help you swim through the sea of complex financial concepts, and these are :@Principles@@@@
 EndPage¤Welcome!@-1/&0/Get ready to take charge of your finances and pave the way for a secure and prosperous future!@7@Have a great time building your personnal finances!@@@
