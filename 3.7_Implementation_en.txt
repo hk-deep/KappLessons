@@ -1,4 +1,4 @@
-TextPage¤Implementation@-1/&0/Here is a step-by-step guide on how to implement this wealth allocation framework :@@@
+ImagePage¤Implementation@-1/&0/Here is a step-by-step guide on how to implement this wealth allocation framework :@0@@@
 ListPage¤Implementation@-1/&0/First : Gather complete diagnostic information:@1& 1. Understand lifecycle details/ 2. Determine your goals and priorities/ 3. Assign cash flows and timelines to each goal/ 4. Classify current assets and liabilities/ 5. Include current and future cash flows/ 6. Answer a risk questionnaire to determine your risk factors and personal danger zone@@@
 ListPage¤Implementation@-1/&0/Second : Perform risk allocation and asset allocation, portfolio construction:@1&Categorize and evaluate current state./Make intuitive adjustments.@@@
 ListPage¤Implementation@-1/&0/Third : Compute probability of achieving goals using:@1&Scenario analysis./Monte Carlo simulations.@@@
