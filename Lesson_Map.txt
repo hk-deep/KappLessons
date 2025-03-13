@@ -226,15 +226,14 @@
       "images/TvsI.png",
     "thumbsUp.png"],
     "2":[
-      "images/TimeValue.png",
-     "images/InflationWhat0.png",
+     "images/TimeValue.png",
+     "images/InflationWhat.png",
      "images/InflationWhy.png",
      "images/Interest.png",
      "images/IRComponents.png",
      "images/PV.png",
      "images/PVFormula.png",
      "images/Magical.png",
-     "images/IRComponents.png",
      "thumbsUp.png"],
     "3":[
       "images/Classes.png",
