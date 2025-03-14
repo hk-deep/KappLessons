@@ -283,7 +283,7 @@
     "13":[
       "images/PersonalAA.png",
       "images/PersonlRisk.png",
-      "images/Journey.png",
+      "images/Journey2.png",
       "thumbsUp.png"],
     "14":[
       "images/WealthDistribution.png",
