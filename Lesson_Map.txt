@@ -272,19 +272,80 @@
     "thumbsUp.png"],
     "9":["images/Vitruve.png",
     "thumbsUp.png"],
-    
-    "13":["images/The Journey Matters.png","thumbsUp.png"],
-    "14":["images/Wealth Distribution.png","images/Dress accordingly.png","images/Wrap up.png","thumbsUp.png"],
+    "12":[
+    "images/WealthAlloc.png",
+    "images/Portfolio2.png",
+    "images/Optimal.png",
+    "images/KeyPoints.png",
+    "images/Factors.png",
+    "images/Strategies.png",
+    "thumbsUp.png"],
+    "13":[
+      "images/PersonalAA.png",
+      "images/PersonlRisk.png",
+      "images/Journey.png",
+      "thumbsUp.png"],
+    "14":[
+      "images/WealthDistribution.png",
+      "images/Dress.png",
+      "images/Wrap up.png","thumbsUp.png"],
     "15":["images/Benchmarks.png","thumbsUp.png"],
-    "16":["images/Asset Classifications for Each Risk Bucket.png","thumbsUp.png"],
-    "17":["images/Dynamic Characteristics of Optimal Risk Allocation.png","images/Sample Risk Allocation for a Conservative Investor.png","images/Sample Risk Allocation for Affluent Investors.png","images/Sample Risk Allocation for Wealthy Investors.png","thumbsUp.png"],
+    "16":["images/Bucket.png","thumbsUp.png"],
+    "17":["images/AI.png","images/Dynamic.png","images/AllocationConservative.png","images/AllocationAffluent.png","images/AllocationWealthy.png","thumbsUp.png"],
+    "18":["images/Implement.png","thumbsUp.png"],
+    "19":[
+    "images/Goals.png",
+    "images/Understand.png",
+    "images/GoalsImportance.png",
+    "images/GoalsSetting.png",
+    "thumbsUp.png"],
+    "20":[
+    "images/SetGoals.png",
+    "images/SMART.png",
+    "thumbsUp.png"],
+    "21":[
+    "images/Classify.png",
+    "thumbsUp.png"],
+    "22":[
+    "images/Savings.png",
+    "images/Prepared.png",
+    "images/Importance.png",
+    "images/Reseves.png",
+    "images/Tips.png",
+    "images/Insurance.png",
+    "images/InsuranceTypes.png",
+    "thumbsUp.png"],
+    "23":[
+    "images/Stash.png",
+    "images/Helps.png",
+    "thumbsUp.png"],
+    "24":[
+    "images/EFSize.png",
+    "thumbsUp.png"],
+    "25":[
+    "images/AccounTypes.png",
+    "images/Choose.png",
+    "thumbsUp.png"],
+    "26":[
+    "images/Tiered.png",
+    "images/Example.png",
+    "thumbsUp.png"],
     "40":["images/ETFs vs Mutual Funds.png","images/Types of Exchange Traded Funds (ETFs).png","thumbsUp.png"],
     "41":["images/Pros and Cons (REITs).png","thumbsUp.png"],
     "46":["images/Pros and Cons (Diversification Strategies).png","thumbsUp.png"]
   },
 "imageList2" : {
-    "12": ["images/Example(distribution of returns).png","thumbsUp.png"],
-    "13": ["images/Geopolitical risk.png","thumbsUp.png"],
+    "10": [
+    "images/Monkeys.png",
+    "images/Question.png",
+    "thumbsUp.png"],
+    "12": ["images/Distribution2.png","thumbsUp.png"],
+    "13": ["images/Geopolitical.png","thumbsUp.png"],
+    "15": [
+    "images/CAPM.png",
+    "images/APT.png",
+    "images/FFM.png",
+    "thumbsUp.png"],
     "39": ["images/Comparison(primary vs secondary market).png","thumbsUp.png"],
     "42": ["images/An Order Book Example.png","thumbsUp.png"],
     "79": ["images/Diversify Across REIT Categories.png","thumbsUp.png"],
