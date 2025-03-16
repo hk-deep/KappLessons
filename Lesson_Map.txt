@@ -330,6 +330,37 @@
     "images/Tiered.png",
     "images/Example.png",
     "thumbsUp.png"],
+    "27":[
+    "images/Homebuying.png",
+    "images/BuildingEquity.png",
+    "images/Relevance.png",
+    "thumbsUp.png"],
+    "28":[
+    "images/OwnBenefits.png",
+    "thumbsUp.png"],
+    "29":[
+    "images/OwnVsRent.png",
+    "images/ProsCons.png",
+    "images/Rule.png",
+    "thumbsUp.png"],
+    "30":[
+    "images/Basics.png",
+    "images/Camino.png",
+    "images/1stTips.png",
+    "thumbsUp.png"],
+    "31":[
+    "images/Preparation.png",
+    "images/HowMuch.png",
+    "images/Backed.png",
+    "images/Preapproval.png",
+    "thumbsUp.png"],
+    "33":[
+    "images/Costs.png",
+    "thumbsUp.png"],
+    "34":[
+    "images/Eligibility.png",
+    "images/DecisionTree.png",
+    "thumbsUp.png"],
     "40":["images/ETFs vs Mutual Funds.png","images/Types of Exchange Traded Funds (ETFs).png","thumbsUp.png"],
     "41":["images/Pros and Cons (REITs).png","thumbsUp.png"],
     "46":["images/Pros and Cons (Diversification Strategies).png","thumbsUp.png"]
@@ -346,6 +377,7 @@
     "images/APT.png",
     "images/FFM.png",
     "thumbsUp.png"],
+    "28": ["images/CompTable.png","images/PTR.png","thumbsUp.png"],
     "39": ["images/Comparison(primary vs secondary market).png","thumbsUp.png"],
     "42": ["images/An Order Book Example.png","thumbsUp.png"],
     "79": ["images/Diversify Across REIT Categories.png","thumbsUp.png"],
