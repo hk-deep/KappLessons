@@ -55,17 +55,11 @@
 "8.3_How to Build an Investment Portfolio",
 "8.4_Asset Allocation",
 "8.5_Diversification",
-"8.6_The 3 funds portfolio",
-
+"8.6_More diversification",
+"8.7_The 3 funds portfolio",
+"8.8_Building a 3FP",
     "lesson",
     "lesson",
-    "lesson",
-    "lesson",
-    "lesson",
-    "lesson",
-    "lesson",
-    "Lorem_Ipsum",
-    "Lorem_Ipsum"
   ],
 "lessonList2" : [
 "1.1_WhatIsInvesting",
