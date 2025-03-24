@@ -59,7 +59,7 @@
 "8.7_The 3 funds portfolio",
 "8.8_Building a 3FP",
     "lesson",
-    "lesson",
+    "lesson"
   ],
 "lessonList2" : [
 "1.1_WhatIsInvesting",
@@ -460,9 +460,50 @@
     "images/REITfunding.png",
     "images/REITprocon.png",
     "thumbsUp.png"],
-    "41":["images/ETFs vs Mutual Funds.png","images/Types of Exchange Traded Funds (ETFs).png","thumbsUp.png"],
-    "42":["images/Pros and Cons (REITs).png","thumbsUp.png"],
-    "47":["images/Pros and Cons (Diversification Strategies).png","thumbsUp.png"]
+    "51":[
+    "images/Portfolio3.png",
+    "images/BuildPortfolio.png",
+    "images/PortfolioDef.png",
+    "images/PortfolioAA.png",
+    "images/Across.png",
+    "thumbsUp.png"],
+    "51":[
+    "images/Portfolio3.png",
+    "images/BuildPortfolio.png",
+    "images/PortfolioDef.png",
+    "images/PortfolioAA.png",
+    "images/Across.png",
+    "thumbsUp.png"],
+    "52":[
+    "images/PortfolioTypes.png",
+    "images/PortfolioSummary.png",
+    "thumbsUp.png"],
+    "53":[
+    "images/RiskTolerance.png",
+    "images/Satellite.png",
+    "thumbsUp.png"],
+    "54":[
+    "images/ACrisk.png",
+    "images/4models.png",
+    "images/AAstrategies.png",
+    "images/Economics.png",
+    "images/Rebalance.png",
+    "thumbsUp.png"],
+    "55":[
+    "images/Dversification.png",
+    "images/Systematic.png",
+    "images/Non-systematic.png",
+    "thumbsUp.png"],
+    "55":[
+    "images/DiverseAcross.png",
+    "images/DiversProCon.png",
+    "thumbsUp.png"],
+    "56":[
+    "images/3Fund.png",
+    "images/Building3F.png",
+    "images/RebalanceWhen.png",
+    "images/RebalanceWhat.png",
+    "thumbsUp.png"]
   },
 "imageList2" : {
     "10": [
@@ -488,7 +529,10 @@
     "56": ["images/Sectors.png","thumbsUp.png"],
     "76": ["images/ETFstyle.png","thumbsUp.png"],
     "79": ["images/REITcategories1.png","images/REITcategories2.png","thumbsUp.png"],
-    "85": ["images/Sample Three-Fund ETF Allocations","thumbsUp.png"]
+    "81": ["images/Preservation.png","images/Income.png","images/Balanced.png","images/Growth2.png","thumbsUp.png"],
+    "82": ["images/Glide.png","images/GlideFormula1.png","images/GlideFormula2.png","thumbsUp.png"],
+    "84": ["images/SPreturns.png","images/Cap.png","images/WorldMarkets2.png","thumbsUp.png"],
+    "85": ["images/Sample3F","images/ETFcriteria","images/3rdStep","thumbsUp.png"]
       },
 "Quizzes":["Quiz_S1", "Quiz_S2", "Quiz_S3", "Quiz_S4", "Quiz_S5", "Quiz_S6", "Quiz_S7", "Quiz_S8"]
 }
